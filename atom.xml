@@ -4,7 +4,7 @@
   <title><![CDATA[Tacks.io < Blog]]></title>
   <link href="http://tacksapp.github.io/atom.xml" rel="self"/>
   <link href="http://tacksapp.github.io/"/>
-  <updated>2014-04-13T13:46:23+02:00</updated>
+  <updated>2014-04-14T10:58:39+02:00</updated>
   <id>http://tacksapp.github.io/</id>
   <author>
     <name><![CDATA[Ian Dundas]]></name>
@@ -22,7 +22,7 @@
 
 <p>It&rsquo;s a simple app based on something I needed each time I found myself in a new city when I was travelling: when you arrive, you constantly see lots of places you&rsquo;d like to return to, and it would be super handy if you could just drop a pin there, add a short title and thus remember it for later. After a while, you&rsquo;ll see a map studded with interesting places that you yourself have added, and it&rsquo;s simple to find your way back later on.  When you go to the next city, you start a new map, etc.</p>
 
-<p>Inspired by <a href="http://twitter.com/soffes">Sam Soffes</a> talking passionately about developing <a href="https://github.com/nothingmagical/cheddar-ios">Cheddar</a> on the <a href="http://5by5.tv/founderstalk/38">Founders Talk</a> podcast, I&rsquo;m going to open-source this app and blog about its development too.</p>
+<p>Inspired by <a href="http://twitter.com/soffes">Sam Soffes</a> talking passionately about developing <a href="https://github.com/nothingmagical/cheddar-ios">Cheddar</a> on the <a href="http://5by5.tv/founderstalk/38">Founders Talk</a> podcast, I&rsquo;m going to <a href="https://github.com/tacksapp/tacksapp">open-source</a> this app and blog about its development too.</p>
 ]]></content>
   </entry>
   
