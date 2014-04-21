@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Introspective | Tacks.io < Blog]]></title>
   <link href="http://tacksapp.github.io/blog/categories/introspective/atom.xml" rel="self"/>
   <link href="http://tacksapp.github.io/"/>
-  <updated>2014-04-21T16:02:29+02:00</updated>
+  <updated>2014-04-21T16:07:25+02:00</updated>
   <id>http://tacksapp.github.io/</id>
   <author>
     <name><![CDATA[Ian Dundas]]></name>
@@ -19,6 +19,10 @@
     <updated>2014-04-21T15:30:00+02:00</updated>
     <id>http://tacksapp.github.io/blog/2014/04/21/looking-back-for-inspiration-part1</id>
     <content type="html"><![CDATA[<p>Perhaps my fondest memory in all my time spent coding was the all-out dash to build a complex PHP web-app for my undergrad dissertation. It was the biggest project I&rsquo;d ever attempted, and was the starting-gun I&rsquo;d been waiting for, the opportunity to really dig into something.</p>
+
+<p><em>Prototype Homepage</em></p>
+
+<p><img class="<a" src="href="http://i.imgur.com/RG6aM7Gl.png">http://i.imgur.com/RG6aM7Gl.png</a>" title="Landing Page" ></p>
 
 <p>Man, I was so psyched about my idea &ndash; it was a web-scraper named Gigsniffr which aggregated a set of concert ticket websites. The killer feature was that when it saw a ticket come onsale for a user&rsquo;s favourite band, it alerted them via a tweet (back when Twitter was still conceived of as a computer-human API platform). At the time, nothing much like this yet existed (2007 was also when <a href="http://songkick.com/">Songkick</a> launched), and I knew for sure that it could be big if I could <em>just</em> get it launched.</p>
 
@@ -37,10 +41,6 @@
 <p>.. and it was gradually forgotten. The would-be investors were interested only in funding marketing, and only once the app was finished &ndash; they were not interested in financing even the peanuts I&rsquo;d need to sit down and complete it. I was also messed up after a nasty breakup. I found myself in a job that absorbed 10 hours of coding stamina per day, which I then quit to take a Masters &ndash; without any real gap after the undergrad. If I&rsquo;m honest, I&rsquo;d got what I wanted from the project, and was moving on &ndash; so Gigsniffr was shelved.</p>
 
 <p>I&rsquo;ve a profound admiration for those running startups which actually launch, especially those who succeed longterm &ndash; it&rsquo;s an amazing feat. People say that ideas are cheap, and that building them is the hard bit. What they don&rsquo;t mention is that building the interesting parts of a project is pretty easy, but FINISHING it is nearly impossible in comparison. Finishing a product really is hard. But the burst of real energy and creativity I summoned for Gigsniffr is something I&rsquo;ve been chasing ever since.</p>
-
-<p><em>Prototype Homepage</em></p>
-
-<p><img class="<a" src="href="http://i.imgur.com/RG6aM7Gl.png">http://i.imgur.com/RG6aM7Gl.png</a>" title="Landing Page" ></p>
 
 <p><em>Prototype Admin panel</em></p>
 
