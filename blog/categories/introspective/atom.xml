@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Tacks.io < Blog]]></title>
-  <link href="http://tacksapp.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Introspective | Tacks.io < Blog]]></title>
+  <link href="http://tacksapp.github.io/blog/categories/introspective/atom.xml" rel="self"/>
   <link href="http://tacksapp.github.io/"/>
   <updated>2014-04-21T15:36:54+02:00</updated>
   <id>http://tacksapp.github.io/</id>
@@ -40,28 +40,15 @@
 
 <p><em>Prototype Homepage</em></p>
 
-<p><img src="http://i.imgur.com/RG6aM7Gl.png" title="Landing Page" ></p>
+<p><img class="<a" src="href="http://i.imgur.com/RG6aM7Gl.png">http://i.imgur.com/RG6aM7Gl.png</a>" title="Landing Page" ></p>
 
 <p><em>Prototype Admin panel</em></p>
 
-<p><img src="http://i.imgur.com/ogIVXZB.png" title="Admin panel" ></p>
+<p><img class="<a" src="href="http://i.imgur.com/ogIVXZB.png">http://i.imgur.com/ogIVXZB.png</a>" title="Admin panel" ></p>
 
 <p><em>Prototype scraping control panel</em></p>
 
-<p><img src="http://i.imgur.com/iNIPvgFl.png" title="Scraping admin panel" ></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Introducing Tacks]]></title>
-    <link href="http://tacksapp.github.io/blog/2014/04/13/introducing-tacks/"/>
-    <updated>2014-04-13T13:37:27+02:00</updated>
-    <id>http://tacksapp.github.io/blog/2014/04/13/introducing-tacks</id>
-    <content type="html"><![CDATA[<p>There&rsquo;s an app that I&rsquo;ve been working on in my spare time, which I&rsquo;ve actually been using personally for several months, but which I&rsquo;ve not managed to pat together into an App store release.</p>
-
-<p>It&rsquo;s a simple app based on something I needed each time I found myself in a new city when I was travelling: when you arrive, you constantly see lots of places you&rsquo;d like to return to, and it would be super handy if you could just drop a pin there, add a short title and thus remember it for later. After a while, you&rsquo;ll see a map studded with interesting places that you yourself have added, and it&rsquo;s simple to find your way back later on.  When you go to the next city, you start a new map, etc.</p>
-
-<p>Inspired by <a href="http://twitter.com/soffes">Sam Soffes</a> talking passionately about developing <a href="https://github.com/nothingmagical/cheddar-ios">Cheddar</a> on the <a href="http://5by5.tv/founderstalk/38">Founders Talk</a> podcast, I&rsquo;m going to <a href="https://github.com/tacksapp/tacksapp">open-source</a> this app and blog about its development too.</p>
+<p><img class="<a" src="href="http://i.imgur.com/iNIPvgFl.png">http://i.imgur.com/iNIPvgFl.png</a>" title="Scraping admin panel" ></p>
 ]]></content>
   </entry>
   
